@@ -1,0 +1,27 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Сгенерированные скраперы (результат работы)
+scraper_*.py
+results/
+
+# Переменные окружения
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Операционная система
+.DS_Store
+Thumbs.db
